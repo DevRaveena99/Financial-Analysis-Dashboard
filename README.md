@@ -35,5 +35,6 @@ This Power BI dashboard provides a comprehensive financial performance overview 
 - Integration with Power Automate for auto-refresh
 - Tooltips with trend analysis
 
-  8. Snapshot/Demos
+8. Snapshot/Demos
+https://github.com/DevRaveena99/Financial-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
 
