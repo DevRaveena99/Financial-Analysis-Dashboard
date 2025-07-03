@@ -1,4 +1,4 @@
-1. Financial Analysis Dashboard – Cigna
+1. Financial Analysis Dashboard 
 
  2. Overview
 This Power BI dashboard provides a comprehensive financial performance overview for Cigna, highlighting key KPIs such as sales, profit, orders, discount trends, and profit margin breakdowns. Designed for business leaders and financial analysts, the dashboard delivers deep insights into regional performance, segment profitability, and product-level trends to support strategic decision-making.
